@@ -1,0 +1,32 @@
+{
+  "name": "parallo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jehad91/Parallo.git"
+  },
+  "author": "Jehad Jawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jehad91/Parallo/issues"
+  },
+  "homepage": "https://github.com/Jehad91/Parallo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-minify": "^3.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
